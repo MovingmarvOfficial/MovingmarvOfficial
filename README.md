@@ -10,7 +10,8 @@
 # MovingmarvOffical 
 Cybersecurity | Blue Team Focus | Security+ Candidate  
 ---
-![Uploading Ellie Kemper Nerd GIF by The Office.gif…]()
+<img width="480" height="400" alt="Ellie Kemper Nerd GIF by The Office" src="https://github.com/user-attachments/assets/ac7cc8df-96c3-4674-a938-90b3a31e66f8" />![Uploading Ellie Kemper Nerd GIF by The Office.gif…]()
+
 ---
 
 ## About Me

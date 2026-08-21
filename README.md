@@ -8,7 +8,7 @@
 ```
 
 # MovingmarvOffical 
-Cybersecurity | Blue Team Focus | Security+ Candidate  
+Cybersecurity | Blue Team Focus | Security+ Candidate | Blue Break User  
 ---
 <img width="480" height="400" alt="Ellie Kemper Nerd GIF by The Office" src="https://github.com/user-attachments/assets/ac7cc8df-96c3-4674-a938-90b3a31e66f8" />
 
@@ -16,7 +16,7 @@ Cybersecurity | Blue Team Focus | Security+ Candidate
 
 ## About Me
 
-I am building structured cybersecurity lab environments with a strong focus on defensive security, isolation architecture and threat analysis.
+I'm building structured cybersecurity lab environments with a strong focus on defensive security, isolation architecture and threat analysis.
 
 My current focus lies in Blue Team practices such as:
 
